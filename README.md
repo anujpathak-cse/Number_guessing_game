@@ -69,13 +69,7 @@ This project demonstrates the practical use of:
 - Attempt counting
 - Basic control flow using `break` and `exit()`
 
-## Project Structure
 
-```text
-number-guessing-game/
-├── main.py
-└── README.md
-```
 
 ## Purpose
 
